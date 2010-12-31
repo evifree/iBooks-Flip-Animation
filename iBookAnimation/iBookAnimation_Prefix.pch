@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'iBookAnimation' target in the 'iBookAnimation' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import <QuartzCore/QuartzCore.h>
+#endif
